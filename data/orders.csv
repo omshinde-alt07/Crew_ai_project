@@ -1,0 +1,11 @@
+order_id,product,quantity,status,customer_priority
+1001,Laptop,5,Delayed,High
+1002,Mouse,10,Delivered,Normal
+1003,Laptop,3,Delayed,Normal
+1004,Keyboard,7,Processing,Normal
+1005,Laptop,2,Delayed,High
+1006,Mouse,12,Delivered,Normal
+1007,Keyboard,5,Delivered,Normal
+1008,Laptop,8,Delayed,High
+1009,Mouse,4,Processing,Normal
+1010,Laptop,6,Delayed,Normal

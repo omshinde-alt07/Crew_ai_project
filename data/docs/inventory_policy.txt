@@ -1,0 +1,14 @@
+Inventory Policy
+
+All products must maintain a minimum stock threshold.
+
+Laptop:
+Minimum Stock: 20 units
+
+Mouse:
+Minimum Stock: 50 units
+
+Keyboard:
+Minimum Stock: 30 units
+
+If stock falls below threshold, orders may be delayed until replenishment.

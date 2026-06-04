@@ -1,0 +1,7 @@
+Ticket ID: ST001
+
+Customer reported delayed Laptop shipment.
+
+Investigation found insufficient warehouse stock.
+
+Order delayed by 4 days.

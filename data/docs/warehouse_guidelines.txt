@@ -1,0 +1,7 @@
+Warehouse Guidelines
+
+Stock counts must be updated daily.
+
+Any product below minimum threshold must be reported immediately.
+
+Emergency restocking should be initiated within one business day.

@@ -1,0 +1,10 @@
+Product Note
+
+Product: Laptop
+
+Category: Electronics
+
+Current Demand: High
+
+Known Issue:
+Frequent stock shortages due to increased enterprise orders.

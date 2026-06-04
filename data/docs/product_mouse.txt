@@ -1,0 +1,9 @@
+Product Note
+
+Product: Mouse
+
+Category: Electronics
+
+Current Demand: Medium
+
+Inventory levels are stable.

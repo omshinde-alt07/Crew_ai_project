@@ -1,0 +1,7 @@
+Returns Policy
+
+Customers may return products within 30 days.
+
+Returned products are inspected before inventory adjustment.
+
+Damaged returns are not added back into inventory.
