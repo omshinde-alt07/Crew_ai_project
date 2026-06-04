@@ -28,6 +28,10 @@ A supply chain team wants to understand:
 
 Instead of manually reviewing documents, agents automatically analyze company records and generate an investigation report.
 
+Video Link : https://notebooklm.google.com/notebook/28cc4f5d-8c99-47ab-aa9a-71f5b6da6cb1/artifact/025c2572-8b6b-4c1d-8403-d696997a9011?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
+
+PPT Link : https://notebooklm.google.com/notebook/28cc4f5d-8c99-47ab-aa9a-71f5b6da6cb1/artifact/ee89703d-fc27-4cd7-b070-d5c7c22a60a3?utm_source=nlm_web_share&utm_medium=google_oo&utm_campaign=art_share_2&utm_content=&utm_smc=nlm_web_share_google_oo_art_share_2_
+
 ---
 
 # Architecture
